@@ -1,0 +1,84 @@
+body {
+    color: #333;
+    background-color: #eaeaea;
+}
+
+.container {
+    width: 700px;
+    margin: auto;
+    background-color: white;
+}
+
+.awalan {
+    padding: 15px;
+}
+
+.awalan .judul {
+    font-size: 50px;
+    margin-bottom: -7px;
+    margin-top: 3px;
+
+}
+
+.awalan ul li {
+    display: inline-block;
+    margin-right: 48px;
+    margin-left: -35px;
+
+}
+
+.awalan a {
+    text-decoration: none;
+    color: red;
+    font-size: 22px;
+}
+
+.awalan a:hover {
+    background-color: red;
+    color: white;
+}
+
+.gambar {
+    height: 280px;
+    background-image: url(gambar2.jpg);
+    background-size: cover;
+    background-position: 0 -180px;
+    border-bottom: 4px solid lightgreen;
+}
+
+.isi {
+    padding-left: 9px;
+}
+
+.isi h2 {
+    margin-top: 3px;
+    margin-bottom: 20px;
+    font-size: 21px;
+}
+
+.isi .penulis {
+    margin-top: -18px;
+    margin-bottom: -9px;
+    font-size: 14px;
+}
+
+.isi .penulis a {
+    color: red;
+    text-decoration: none;
+
+}
+
+.isi p {
+    margin-bottom: 21px;
+    font-size: 17px;
+}
+
+.footter .copy {
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: black;
+    color: white;
+    font-size: 14px;
+    text-align: center;
+
+}
